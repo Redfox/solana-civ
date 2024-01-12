@@ -10,7 +10,7 @@ use crate::instructions::*;
 use crate::state::{ProductionItem, TechnologyType};
 use anchor_lang::prelude::*;
 
-declare_id!("3qoyRXbpBJDPfQYL5GUFJ2nf2YzpA8kZmXPYr4DZBmPU");
+declare_id!("36bGmrBLBohKsXuo9e7yQGj9n34qFznxTH1Sq5WpSjhE");
 
 #[program]
 pub mod solciv {
